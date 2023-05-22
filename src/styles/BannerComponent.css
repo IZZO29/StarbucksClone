@@ -1,0 +1,24 @@
+.swiper-button-banner {
+    position: absolute;
+    top: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.swiper-button-banner svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.image-swiper-button-prev-banner {
+    top: 55px;
+    left: -45px;
+}
+
+.image-swiper-button-next-banner {
+    top: 55px;
+    right: -45px;
+}
+.swiper-button-disabled {
+    opacity: 0.5;
+}
