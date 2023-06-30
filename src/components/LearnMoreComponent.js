@@ -20,8 +20,8 @@ const LearnMoreComponent = () => {
                             styles={{ fontSize: 10 }}
                         ></span>
                         <div className='text-white'>
-                        <p className='text-2xl font-semibold'>Behind Every Starbucks Cup</p>
-                        <p className='mt-2 font-light'>Ever Wondered how Starbucks ensures the quality of your daily cup of coffee? Learn how we bring the best coffee experience possible.</p>
+                        <p className='text-2xl font-semibold'>The Art And Science Of Sampling Coffee</p>
+                        <p className='mt-2 font-light'>Explore the world of coffee sampling at Starbucks and uncover the art and science behind creating the perfect cup.</p>
                         <button className='bg-white text-xs font-semibold text-[#1e3932] mt-14 pl-16 pr-16 p-2 rounded-full'>Learn More</button>
                         </div>
                     </div>
